@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+h1{
+color: blue;    
+}
+body{
+    background-color:black;
+}
+.name{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+    font-weight: 600;
+    
+}
+.pr{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.name1{
+    color: beige;
+    margin: 10px;
+    opacity: 50%;
+    width: 76%;
+    margin-left: 5%;
+}
+.dis{
+    color: beige;
+    margin: 20px;
+    opacity: 50%;
+    width: 50%;
+}
+.tou{
+    background-color: black;
+    color: beige;
+    border: outset;
+    border-color: chocolate;
+    margin-left: 20px;
+    padding: 15px;
+}
+.maindiv{
+    display: flex;
+}
+.leftdiv{
+    width: 60%;
+}
+.rightdiv{
+    width: 50%;
+    height: 40%;
+    float: inherit;
+    
+}
+.image1{
+    height: 350px;
+    width: 300px;
+    margin-right: 10px;
+}
+.name2{
+    color: burlywood;
+    margin: 20px;
+    box-sizing: border-box;
+    font-weight: 600;
+
+    margin-left: 120px;
+}
+.project{
+    display: flex;
+}
+.lpro{
+    width: 33%;
+}
+.mpro{
+    width: 33%;
+}
+.rpro{
+    width: 33%;
+} 
+.header{
+    display: flex;
+}
+.header1{
+    width: 60%;
+}
+.header2{
+    width: 20%;
+}
+.header3{
+    width: 20%;
+}
+nav {
+    background-color: chocolate;
+    overflow: hidden;
+}
+
+nav a {
+    float: right;
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.name4{
+    color: burlywood;
+    
+}.project.lpro.name2{
+    margin-left: 20px;
+}
